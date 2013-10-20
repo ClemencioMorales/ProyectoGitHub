@@ -8,7 +8,7 @@ public class Clase1 {
 	
 	public static void main(String[] args) {
 		Clase1 clase1 = new Clase1();
-		clase1.print("Prueba");
+		clase1.print("Segunda prueba");
 	}
 
 }
